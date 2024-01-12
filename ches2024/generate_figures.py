@@ -148,7 +148,7 @@ print('difference:                   '+str(round(100*abs(poly_VA_norm_2000[2]-po
 ########################              FPGA results          ####################################
 ################################################################################################
 
-counter_full=np.loadtxt('measures_fpga_coso.txt')[:110000]
+counter_full=np.loadtxt('fpga_counter.txt')[:110000]
 
 plt.figure()
 p1=plt.hist(counter_full)
