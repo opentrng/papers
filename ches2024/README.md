@@ -1,13 +1,18 @@
 # Introduction
 
-This directory contains the relevant files to generate results and figures for our CHES 2024 paper "Impact of the Flicker Noise on the Ring Oscillator-based TRNGs", _Licinius Benea, Mikael Carmona, Viktor Fischer, Florian Pebay-Peyroula and Romain Wacquez_.
+This directory contains the relevant files to generate results and figures for our CHES 2024 paper [Impact of the Flicker Noise on the Ring Oscillator-based TRNGs](https://tches.iacr.org/index.php/TCHES/article/view/11450), _Licinius Benea, Mikael Carmona, Viktor Fischer, Florian Pebay-Peyroula and Romain Wacquez_.
 
 ```
 @article{BeneaTCHES2024,
-	title={Impact of the Flicker Noise on the Ring Oscillator-based TRNGs},
-	journal={IACR Transactions on Cryptographic Hardware and Embedded Systems},
-	author={Benea, Licinius and Carmona, Mikael and Fischer, Viktor and Pebay-Peyroula, Florian and Wacquez, Romain},
-	year={2024}
+  author={Benea, Licinius and Carmona, Mikael and Fischer, Viktor and Pebay-Peyroula, Florian and Wacquez, Romain},
+  title={Impact of the Flicker Noise on the Ring Oscillator-based TRNGs},
+  journal={IACR Transactions on Cryptographic Hardware and Embedded Systems},
+  volume={2024},
+  number={2},
+  year={2024},
+  month={Mar.},
+  pages={870–889},
+  doi={10.46586/tches.v2024.i2.870-889}
 }
 ```
 
