@@ -3,12 +3,14 @@
 This directory contains the relevant files to generate results and figures for our DTTIS 2024 paper [OpenTRNG: an open-source initiative for ring-oscillator based TRNGs](https://dttis2024.org/), _Florian Pebay-Peyroula, Licinius Benea, Mikael Carmona and Romain Wacquez_.
 
 ```
-@article{DTTISOpenTRNG2024,
-  author={Pebay-Peyroula, Florian and Benea, Licinius and Carmona, Mikael and Wacquez, Romain},
-  title={OpenTRNG: an open-source initiative for ring-oscillator based TRNGs},
-  journal={IEEE International conference on Design Test and Technology of Integrated Systems},
+@inproceedings{OpenTrngDTTIS2024,
+  author={Pebay-Peyroula, Florian and Benea, Licinius-Pompiliu and Carmona, Mikael and Wacquez, Romain},
+  booktitle={2024 IEEE International Conference on Design, Test and Technology of Integrated Systems (DTTIS)}, 
+  title={OpenTRNG: an open-source initiative for ring-oscillator based TRNGs}, 
   year={2024},
-  month={Oct.}
+  pages={1-6},
+  keywords={Ring oscillators;Emulation;Collaboration;Throughput;Hardware;Entropy;Reliability;Security;Random number generation;Field programmable gate arrays;TRNG;PTRNG;FPGA;ASIC;Ring-oscillator},
+  doi={10.1109/DTTIS62212.2024.10780212}
 }
 ```
 
