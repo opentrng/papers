@@ -5,7 +5,7 @@ This repository includes all necessary files to reproduce the results and figure
 ```
 @inproceedings{MetastabilityHOST2025,
   author={Pebay-Peyroula, Florian and Benea, Licinius-Pompiliu and Carmona, Mikael and Wacquez, Romain},
-  booktitle={2024 IEEE International Conference on Design, Test and Technology of Integrated Systems (DTTIS)}, 
+  booktitle={2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)}, 
   title={On the impact of metastability in jitter based TRNG}, 
   year={2025},
   keywords={TRNG;ring-oscillator;phase noise;jitter;metastability;FPGA;ASIC;ERO;MURO;COSO}
